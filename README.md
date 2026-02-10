@@ -19,8 +19,8 @@ This project analyzes 43 years of climate data to quantify Pakistan's climate vu
 ---
 
 ## KEY FINDINGS
-![Pakistan Climate Analysis Dashboard](outputs/pakistan_climate_dashboard.png)
-![Key Findings Infographic](outputs/pakistan_climate-infographic.png)
+![Pakistan Climate Analysis Dashboard](pakistan_climate_dashboard.png)
+![Key Findings Infographic](infographic_v2.png)
 ### 🌡️ **1. ACCELERATING TEMPERATURE RISE**
 - **Temperature increasing at 0.021°C per decade** (statistically significant, p < 0.05)
 - Total temperature increase since 1981: **1.17°C**
